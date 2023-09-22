@@ -25,3 +25,8 @@ Por fim, defini a cor de fundo do header na versão mobile para garantir uniform
 <img src= "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 </div>
 <h2> Imagens do Desafio </h2>
+
+![image](https://github.com/KathllynSantos/Elas-Na-Tech-Desafio8/assets/120657741/21c53839-1c82-42b7-a265-e0f92492990f)
+![image](https://github.com/KathllynSantos/Elas-Na-Tech-Desafio8/assets/120657741/61f5f05d-67f8-4214-a4c0-388f05e06d2e)
+
+
